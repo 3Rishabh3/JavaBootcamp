@@ -13,7 +13,7 @@
 - [Multilevel inheritance](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/inheritance/multiLevelInheritance)
 ### [12. Method overriding](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/MethodOverriding.java)
 ### 13. final keyword
-- final class: this is a class which can't be inherited by any other class
-- final method: this is a method which can not be overridden
-- final variable: used to make value of a variable constant
+- **final class**: this is a class which can't be inherited by any other class
+- **final method**: this is a method which can not be overridden
+- **final variable**: used to make value of a variable constant
 ### 14. this keyword
