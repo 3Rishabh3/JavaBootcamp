@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 class Mobile {
     int price; //Object member

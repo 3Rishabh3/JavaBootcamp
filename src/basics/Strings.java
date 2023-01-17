@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 public class Strings {
     public static void main (String[] args){
