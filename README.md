@@ -8,5 +8,5 @@
 ### 8. Classes and Objects
 ### 9. Static keyword
 ### 10. This and Super method
-### 11. Method overriding
-### 12. Inheritance
+### 11. Inheritance
+### 12. Method overriding
