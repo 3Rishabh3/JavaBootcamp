@@ -19,6 +19,7 @@ class UpdatedThar extends Thar {  // Concrete class
         System.out.println("Flying in updated Thar");
     }
 }
+
 public class AbstractClass {
     public static void main(String[] args){
         Car obj = new UpdatedThar();
