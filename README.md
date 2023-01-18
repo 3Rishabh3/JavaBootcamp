@@ -30,3 +30,4 @@
 - Interfaces are not classes, these are just defined for giving the blueprint of methods which should be implemented by a class.
 - A variable defined in interface is a final and static variable by default.
 ### [19. Example of interface](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/InterfaceExample.java)
+### [20. Enums in java](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Enums.java)
