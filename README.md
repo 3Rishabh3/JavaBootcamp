@@ -24,3 +24,4 @@
 - Drived class must give the implementation of abstract function
 - The class which gives the implementation of abstract methods is a **concrete class**
 ### [16. Inner class](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/InnerClass.java)
+### [17. Anonymous inner class](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/AnonymousInnerClass.java)
