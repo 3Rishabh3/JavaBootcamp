@@ -9,7 +9,7 @@ class DefaultException extends Exception {
 public class ExceptionHandling {
     public static void main(String[] args){
         int[] nums = new int[5];
-        int i = 3;
+        int i = 3; // Try this with i > 4
         try{
             if(nums[i] == 0)
                 throw new DefaultException();
