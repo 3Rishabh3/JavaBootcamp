@@ -38,7 +38,9 @@
 - @override, @Deprecated etc...
 ### 23. Functional interface
 - Functional interfaces are interfaces which has only one method
-- This interface is called SAM(single abstract meta interface)
+- This interface is called SAM(single abstract method interface)
 - We can give annotation @FunctionalInterface
 ### [24. Lambda function](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/LambdaFunction.java)
 - Lambda functions works only with functional interface
+### [25. Exceptions](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/ExceptionHandling.java)
+- Exceptions are just runtime errors
