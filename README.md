@@ -44,3 +44,7 @@
 - Lambda functions works only with functional interface
 ### [25. Exceptions](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/ExceptionHandling.java)
 - Exceptions are just runtime errors
+- Two types: Checked and unchecked exception
+### 26. finally
+- finally block is used for closing resources if they are open(just an example)
+- finally block always executes wheather execption occours or not
