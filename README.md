@@ -36,3 +36,7 @@
 ### 22. Annotations
 - It's just that we want to supply extra information to the compiler or to the runtime
 - @override, @Deprecated etc...
+### 23. Functional interface
+- Functional interfaces are interfaces which has only one method
+- This interface is called SAM(single abstract meta interface)
+- We can give annotation @FunctionalInterface
