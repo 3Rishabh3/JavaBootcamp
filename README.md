@@ -40,3 +40,5 @@
 - Functional interfaces are interfaces which has only one method
 - This interface is called SAM(single abstract meta interface)
 - We can give annotation @FunctionalInterface
+### [24. Lambda function](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/LambdaFunction.java)
+- Lambda functions works only with functional interface
