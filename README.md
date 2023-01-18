@@ -28,3 +28,4 @@
 ### [17. Anonymous inner class](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/AnonymousInnerClass.java)
 ### [18. Interface in java](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Interface.java)
 - Interfaces are not classes, these are just defined for giving the blueprint of methods which should be implemented by a class.
+- A variable defined in interface is a final and static variable by default.
