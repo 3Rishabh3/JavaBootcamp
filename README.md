@@ -31,3 +31,8 @@
 - A variable defined in interface is a final and static variable by default.
 ### [19. Example of interface](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/InterfaceExample.java)
 ### [20. Enums in java](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Enums.java)
+- By default enums extends Enum class
+### [21. Example of enum](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/EnumExample.java)
+### 22. Annotations
+-- It's just that we want to supply extra information to the compiler or to the runtime
+-- @override, @Deprecated etc...
