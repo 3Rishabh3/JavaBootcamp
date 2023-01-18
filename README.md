@@ -34,5 +34,5 @@
 - By default enums extends Enum class
 ### [21. Example of enum](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/EnumExample.java)
 ### 22. Annotations
--- It's just that we want to supply extra information to the compiler or to the runtime
--- @override, @Deprecated etc...
+- It's just that we want to supply extra information to the compiler or to the runtime
+- @override, @Deprecated etc...
