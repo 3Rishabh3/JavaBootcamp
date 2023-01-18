@@ -17,4 +17,9 @@
 - **final method**: this is a method which can not be overridden
 - **final variable**: used to make value of a variable constant
 ### 14. this keyword
-### [15. Abstract and concrete class]
+### [15. Abstract and concrete class](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/AbstractClass.java)
+- If u create a method **abstract** then it's class must be abstract
+- It is not compulsury to have a abstract method in abstract class
+- Abstract class is used when you don't give the definition of a function, you just define it.
+- Drived class must give the implementation of abstract function
+- The class which gives the implementation of abstract methods is a **concrete class**
