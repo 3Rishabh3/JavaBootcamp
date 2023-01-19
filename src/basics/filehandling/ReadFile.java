@@ -11,5 +11,6 @@ public class ReadFile {
             if(i != -1)
                 System.out.print((char)i);
         }while (i != -1);
+        fin.close();
     }
 }
