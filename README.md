@@ -48,3 +48,9 @@
 - finally block is used for closing resources if they are open(just an example)
 - finally block always executes wheather execption occours or not
 ### [26. Threading](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Threading.java)
+### [27. File handling](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/filehandling)
+- [Create file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/CreateFileAndDirectory.java)
+- [Write file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/WriteFile.java)
+- [Read file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadFile.java)
+- [Write using BufferedWriter](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/WriteUsingBufferWriter.java)
+- [Read using BufferedReader](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadUsingBufferReader.java)
