@@ -57,6 +57,9 @@
 <details><summary>28. Collections</summary>
 
   [List](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/listinterface)<br>
+  - [ArrayList]
+  - [LinkedList]
+  - [Stack]
   [Map](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface)<br>
   [Queue](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface)<br>
   [Set](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface)
