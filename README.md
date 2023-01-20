@@ -54,9 +54,8 @@
 - [Read file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadFile.java)
 - [Write using BufferedWriter](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/WriteUsingBufferWriter.java)
 - [Read using BufferedReader](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadUsingBufferReader.java)
-<details><summary>28. Collections</summary>
-  [List](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/listinterface)<br>
-  [Map](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface)<br>
-  [Queue](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface)<br>
-  [Set](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface)
-</details>
+### [28. Collections]
+- [List](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/listinterface)<br>
+- [Map](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface)<br>
+- [Queue](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface)<br>
+- [Set](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface)
