@@ -56,14 +56,7 @@
 - [Read using BufferedReader](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadUsingBufferReader.java)
 <details><summary>28. Collections</summary>
   [List](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/listinterface)
-  - ArrayList
-    - [Access elements](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/collections/listinterface/arraylist/AccessElements.java)
-    - [Add elements](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/collections/listinterface/arraylist/AddElements.java)
-    - [Change elements](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/collections/listinterface/arraylist/ChangeArrayListElements.java)
-    - [Remove elements](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/collections/listinterface/arraylist/RemoveElements.java)
-  - LinkedList
-  - Stack<br>
- [Map](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface)<br>
- [Queue](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface)<br>
- [Set](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface)<br>
+  [Map](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface)<br>
+  [Queue](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface)<br>
+  [Set](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface)<br>
 </details>
