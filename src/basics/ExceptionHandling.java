@@ -1,22 +1,23 @@
 package basics;
 
-class DefaultException extends Exception {
-    public DefaultException() {
-        System.out.println("Default exception");
+class CustomException extends Exception {
+    public CustomException(String msg) {
+        super(msg);
     }
 }
-
+// TODO Create custom exception class : Arithmetic, IO, IndexOutOfBound, Sql
 public class ExceptionHandling {
     public static void main(String[] args){
         int[] nums = new int[5];
         int i = 3; // Try this with i > 4
         try{
             if(nums[i] == 0)
-                throw new DefaultException();
+                throw new CustomException("Custom exception");
         }
-        catch (DefaultException e) {
+        catch (CustomException e) {
             nums[i] = 1;
             System.out.println("That's the default value : " + nums[i]);
+            System.out.println(e.getMessage());
         }
         catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Array out of bound");
