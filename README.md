@@ -54,19 +54,11 @@
 - [Read file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadFile.java)
 - [Write using BufferedWriter](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/WriteUsingBufferWriter.java)
 - [Read using BufferedReader](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/ReadUsingBufferReader.java)
-<details>
-  <summary>
-    <a href="https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/listinterface">List</a>
-    <a href="https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface">Map</a>
-    <a href="https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface">Queue</a>
-    <a href="https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface">Set</a>
-  </summary>
-  28. Collections
-</details>
+<details><summary>28. Collections</summary>
 
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-[hi](https://hello.ca)
+  [List](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/listinterface)
+  [Map](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/mapinterface)
+  [Queue](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/queueinterface)
+  [Set](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/collections/setinterface)
   
 </details>
