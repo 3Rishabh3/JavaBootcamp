@@ -54,7 +54,7 @@
 - finally block always executes wheather execption occours or not
 ### 26. Threading
 - [Basics in threading](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/multithreading)
-- [Producer consumer problem](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/multithreading/producerconsumerproblem)
+- [Producer consumer problem(inter-threading)](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/multithreading/producerconsumerproblem)
 ### [27. File handling](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/filehandling)
 - [Create file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/CreateFileAndDirectory.java)
 - [Write file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/WriteFile.java)
