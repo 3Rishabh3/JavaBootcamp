@@ -29,7 +29,10 @@
 - Interfaces are not classes, these are just defined for giving the blueprint of methods which should be implemented by a class.
 - A variable defined in interface is a final and static variable by default.
 ### [18. Example of interface](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/InterfaceExample.java)
-### [19. Enums in java](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Enums.java)
+### 19. Enums in java
+- [Enums basics](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Enums.java)
+- [String to enum](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/StringToEnum.java)
+- [Enum to string](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/EnumToString.java)
 - By default enums extends Enum class
 ### [20. Example of enum](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/EnumExample.java)
 ### 21. Annotations
@@ -41,13 +44,17 @@
 - We can give annotation @FunctionalInterface
 ### [23. Lambda function](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/LambdaFunction.java)
 - Lambda functions works only with functional interface
-### [24. Exceptions](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/ExceptionHandling.java)
+### 24. Exceptions
+- [Exception handling basics](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/ExceptionHandling.java)
+- [Custom exception handling](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/CustomExceptionHandling.java)
 - Exceptions are just runtime errors
 - Two types: Checked and unchecked exception
 ### 25. finally
 - finally block is used for closing resources if they are open(just an example)
 - finally block always executes wheather execption occours or not
-### [26. Threading](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/Threading.java)
+### 26. Threading
+- [Basics in threading](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/multithreading)
+- [Producer consumer problem](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/multithreading/producerconsumerproblem)
 ### [27. File handling](https://github.com/3Rishabh3/JavaBootcamp/tree/master/src/basics/filehandling)
 - [Create file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/CreateFileAndDirectory.java)
 - [Write file](https://github.com/3Rishabh3/JavaBootcamp/blob/master/src/basics/filehandling/WriteFile.java)
