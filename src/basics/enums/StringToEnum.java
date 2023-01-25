@@ -1,4 +1,4 @@
-package basics;
+package basics.enums;
 
 enum Color {
     RED, GREEN, BLUE;

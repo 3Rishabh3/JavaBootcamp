@@ -1,4 +1,4 @@
-package basics;
+package basics.enums;
 
 enum Machine {
     Macbook(3000), XPS(2400), Surface, ThinkPad(1700);
