@@ -18,7 +18,7 @@ class Company
         notify();
     }
 
-    synchronized public int consume_item()throws Exception
+    synchronized public void consume_item()throws Exception
     {
         if(!f)
         {
@@ -27,6 +27,5 @@ class Company
         System.out.println("Consumed : "+this.n);
         f=false;
         notify();
-        return this.n;
     }
 }
