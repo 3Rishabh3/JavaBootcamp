@@ -6,7 +6,7 @@ interface Cal {
 }
 public class LambdaFunction {
     public static void main(String[] args){
-        Cal obj = (i, j) -> i+j;
+        Cal obj = Integer::sum;
         System.out.println(obj.add(3,5));
     }
 }

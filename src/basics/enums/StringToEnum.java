@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 enum Color {
     RED, GREEN, BLUE;
+
+    public static String getString(Device device){
+        return device.toString();
+    }
 }
 public class StringToEnum {
         public static void main(String[] args) {

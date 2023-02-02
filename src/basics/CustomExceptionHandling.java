@@ -5,8 +5,18 @@ import java.io.*;
 import java.sql.*;
 
 class CustomException extends Exception {
+
+    private String message;
+    private int errorCode;
     public CustomException(String message) {
         super(message);
+        this.message = message;
+    }
+
+    public CustomException(String message, int errorCode) {
+        super(message);
+        this.message = message;
+        this.errorCode = errorCode;
     }
 }
 
@@ -29,7 +39,7 @@ public class CustomExceptionHandling {
             int value = arr[index];
 
         } catch (IOException | ArithmeticException | SQLException | IndexOutOfBoundsException e) {
-            throw new CustomException("An exception occurred: " + e.getMessage());
+            throw new CustomException("An exception occurred: " + e.getMessage(), 500);
         }
     }
 }
